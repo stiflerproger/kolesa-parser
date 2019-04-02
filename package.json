@@ -1,0 +1,29 @@
+{
+  "name": "kolesa-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mysql": "^2.16.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stiflerproger/kolesa-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stiflerproger/kolesa-parser/issues"
+  },
+  "homepage": "https://github.com/stiflerproger/kolesa-parser#readme"
+}
